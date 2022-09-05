@@ -1,4 +1,4 @@
-import React,{ useState, useEffect} from 'react';
+import React from 'react';
 import { SafeAreaView, View, FlatList, StyleSheet, Text } from 'react-native';
 import DemoData from './data';
 
