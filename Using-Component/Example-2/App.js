@@ -1,7 +1,6 @@
 import React,{ useState, useEffect} from 'react';
 import { SafeAreaView, View, FlatList, StyleSheet, Text, StatusBar } from 'react-native';
 import axios from 'axios';
-import DemoData from './data';
 import DisplayData from './display';
 
 const TestPage = () => {
